@@ -1,6 +1,8 @@
 # Angular Material sample application developed for a blog post
 
-I made a blog post about Angular, Material Design and Angular Material. Link: X
+I made a blog post about Angular, Material Design and Angular Material:
+
+https://dev.to/itminds/build-beautiful-websites-with-angular-and-material-design-35eg
 
 In the post I explain about Angular, Material Design and Angular Material. I developed a login page using Angular Theming, I create my own dark theme, and show extra tips to the more experienced Angular Material developer.
 
