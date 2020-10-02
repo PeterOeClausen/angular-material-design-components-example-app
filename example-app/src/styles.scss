@@ -1,6 +1,6 @@
 @import '~@angular/material/theming';
 
-// Include non-theme styles for core.
+// Includes all common styles that are used by multiple Angular Material components
 @include mat-core();
 
 // Define your application's custom theme.
@@ -11,7 +11,7 @@ $theme: mat-dark-theme(
   $accent-palette,  
 );
 
-// Include theme styles for Angular Material components.
+// Include theme styles for Angular Material components and each component used in your app.
 @include angular-material-theme($theme);
 
 html, body { height: 100%; }
