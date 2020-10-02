@@ -15,3 +15,5 @@ To run the Angular application:
 - `cd example-app`
 - `npm install`
 - `ng serve`
+
+You should then be able to access the login component in your web browser on `localhost:4200/login`.
