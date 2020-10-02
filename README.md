@@ -6,4 +6,12 @@ In the post I explain about Angular, Material Design and Angular Material. I dev
 
 This repository contains the source code for the sample Angular Application.
 
+The login page can be seen below:
+
 ![dark-theme](https://dev-to-uploads.s3.amazonaws.com/i/37aaalrshn6xihacoj2k.gif)
+
+To run the Angular application:
+- Download or clone the repository
+- `cd example-app`
+- `npm install`
+- `ng serve`
